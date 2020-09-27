@@ -1210,6 +1210,14 @@ input[type="radio"] + label:before {
   .icon.brands:before {
     font-family: 'Font Awesome 5 Brands'; }
 
+/* Profile image */
+.profile_image img{
+    overflow: hidden;
+    border-radius: 50%;
+    display: inline-block;
+    width: 80%
+  }
+
 /* Image */
 .image {
   border-radius: 0.375em;

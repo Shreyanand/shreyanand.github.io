@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+{% for category in site.categories %}
+<!-- Section -->
+  <section>
+    <header class="major">
+      <h2>{{category[0]}}</h2>
+    </header>
+    <div class="posts">
+      {% for post in category[1] %}
+        <article>
+          <a href="{{ post.url }}" class="image"><img src="{{post.main_image}}" alt="" /></a>
+          <h3>{{ post.title }}</h3>
+          <p>{{post.description}}</p>
+          <ul class="actions">
+            <li><a href="{{ post.url }}" class="button">More</a></li>
+          </ul>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
