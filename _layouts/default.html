@@ -20,7 +20,7 @@
 
 							<!-- Header -->
 								<header id="header">
-									<a href="index.html" class="logo"> <strong>Science</strong> with Shrey</a>
+									<a href={{"index.html" | absolute_url}} class="logo">Shrey Anand</a>
 									<ul class="icons">
 										<li><a href="https://www.linkedin.com/in/shrey-anand-733300b2/" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a></li>
 										<!-- <li><a href="#" class="icon brands fa-researchgate"><span class="label">Facebook</span></a></li> -->
@@ -38,7 +38,7 @@
 									</header>
 
 									{% if page.main_image %}
-									<span class="image main"><img src= {{ page.main_image }} alt="" /></span>
+									<span class="image main"><img src="{{page.main_image}}" alt="" /></span>
 									{% endif %}
 									{{ content }}
 								</section>
@@ -160,8 +160,8 @@
 										<h2>Menu</h2>
 									</header>
 									<ul>
-										<li><a href="index.html">Homepage</a></li>
-										<li><a href="projects.html">Projects</a></li>
+										<li><a href={{"index.html" | absolute_url}}>Homepage</a></li>
+										<!-- <li><a href={{"projects.html" | absolute_url}}>Projects</a></li> -->
 										<!-- <li><a href="generic.html">Generic</a></li>
 										<li><a href="elements.html">Elements</a></li> -->
 										<!-- <li>
@@ -173,7 +173,7 @@
 												<li><a href="#">Feugiat Veroeros</a></li>
 											</ul>
 										</li> -->
-										<li><a href="blog.html">Blogs</a></li>
+										<li><a href={{"blog.html" | absolute_url}}>Blogs</a></li>
 									</ul>
 								</nav>
 
@@ -208,7 +208,7 @@
 										<h2>Get in touch</h2>
 									</header>
 									<!-- Profile Pic -->
-									<p class="profile_image"><img src="images/my_images/profile.jpg" alt="" /></p>
+									<p class="profile_image"><img src="/images/my_images/profile.jpg" alt="" /></p>
 
 									<p>Please reach me at my email or Linkedin. </p>
 									<ul class="contact">
@@ -220,8 +220,7 @@
 
 							<!-- Footer -->
 								<footer id="footer">
-									 <!-- <p> Shrey Anand. All rights reserved. </p> -->
-									 <!-- Design: <a href="https://html5up.net">HTML5 UP</a></p> -->
+									 <p class="copyright">&copy; Shrey Anand. All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a></p>
 								</footer>
 
 						</div>
@@ -230,11 +229,11 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src={{"/assets/js/jquery.min.js" | absolute_url}}></script>
+			<script src={{"/assets/js/browser.min.js" | absolute_url}}></script>
+			<script src={{"/assets/js/breakpoints.min.js" | absolute_url}}></script>
+			<script src={{"/assets/js/util.js" | absolute_url}}></script>
+			<script src={{"/assets/js/main.js" | absolute_url}}></script>
 
 	</body>
 </html>

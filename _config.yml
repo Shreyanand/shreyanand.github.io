@@ -5,3 +5,5 @@ defaults:
       path: "images"
     values:
       image: true
+
+url: https://shreyanand.github.io
