@@ -4,7 +4,7 @@ layout: default
 tags: NLP, topic modelling
 categories: Projects
 main_image: "/images/projects/PCAvis.png"
-description: Analyzing thousands of user reviews and feedback is critical for the success of any product or service.
+description: How can we derive insights from a large volume of user reviews and feedback? Improve products and services through an automated analysis of reviews.
 ---
 
 [**Project Github**](https://github.com/Shreyanand/Analysis_Mobile_Application_Comments)

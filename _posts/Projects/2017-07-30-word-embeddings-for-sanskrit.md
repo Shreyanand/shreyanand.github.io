@@ -3,8 +3,8 @@ title: Sanskrit word embeddings
 layout: default
 tags: word embeddings, NLP
 categories: Projects
-main_image: "images/projects/sanskrit.png"
-description: Application of language models for a Sanskrit language corpus. 
+main_image: "/images/projects/sanskrit.png"
+description: Can language models developed for English be applied to regional languages such as Sanskrit?
 ---
 
 [**Paper**](https://www.researchgate.net/publication/318423328_Representing_Contexual_Relations_with_Sanskrit_Word_Embeddings)

@@ -1,20 +1,19 @@
 ---
-title: About me
+title: Home
 layout: default
-tags: Shrey Anand homepage about data scientist
+tags: Shrey Anand, Interests, music, people, health
 categories: Me
 main_image: "images/bg.png"
-description: In this page, I talk about me.
+description:
 ---
 
+Hello my fellow netizens, thank you for visiting my website. I'm a Data Scientist and a developer interested in computers, people, health, and music.
 
-<!-- Any directory above _post will be read-in as a category. For example, if a post is at path movies/horror/_posts/2019-05-21-bride-of-chucky.markdown, then movies and horror are automatically registered as categories for that post. -->
+<ul class="actions special">
+  <li><a href="{{"blog.html" | absolute_url}}" class="button">Blogs</a></li>
+  <li><a href="{{"about.html" | absolute_url}}" class="button">About me</a></li>
+</ul>
 
-
-### Shrey Anand is a data scientist working with Red Hat Inc.
-placeholder
-
-<span class="image main"><img src="images/pic11.jpg" alt="" /></span>
 <!--
 You can use HTML elements in Markdown, such as the comment element, and they won't
 be affected by a markdown parser. However, if you create an HTML element in your

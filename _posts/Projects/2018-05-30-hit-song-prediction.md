@@ -4,12 +4,12 @@ layout: default
 tags: music, Machine Learning
 categories: Projects
 main_image: "/images/projects/music.png"
-description: This is a sample project.
+description: What makes a song hit? Application of machine learning to find songs that have what it takes.
 ---
 
 [**Project Github**](https://github.com/Shreyanand/Music_Hit_Prediction_-acoustic_data)
 
-Music industry has been growing rapidly with the advent of subscription based streaming services such as Spotify, Amazon, Apple, and Google music. Your favourite music has never been so easily accessible. For the music makers out there, finding a stage and an audience that appreciates your work is now more easy than ever. In this project, we analyze a collection of songs and based on their rankings, train a model that predicts whether a song will be a hit or not.
+Music industry has been growing rapidly with the advent of subscription based streaming services such as Spotify, Amazon, Apple, and Google music. Your favorite music has never been so easily accessible. For the music makers out there, finding a stage and an audience that appreciates your work is now more easy than ever. In this project, we analyze a collection of songs and based on their rankings, train a model that predicts whether a song will be a hit or not.
 
 In the first phase of the project, we collected data from two sources:
 [Official charts](www.officialcharts.com) to get songs that are top ranked and those that are not

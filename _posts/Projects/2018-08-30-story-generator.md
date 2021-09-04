@@ -4,7 +4,7 @@ layout: default
 tags: RNN, sentence to vector, NLP
 categories: Projects
 main_image: "/images/projects/story_main.png"
-description: Stories are exciting so we trained a model that interacts with users to generate very simple five sentences long stories.
+description: Stories are exciting and we are naturally wired to process and generate them. Can we train a model that interacts with users to generate very simple stories?
 ---
 
 [**Project Github**](https://github.com/Shreyanand/story_generator)
