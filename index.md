@@ -4,7 +4,7 @@ layout: default
 tags: Shrey Anand, Interests, music, people, health
 categories: Me
 main_image: "images/bg.png"
-description:
+description: Home page
 ---
 
 Hello my fellow netizens, thank you for visiting my website. I'm a Data Scientist and a developer interested in computers, people, health, and music.
