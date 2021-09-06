@@ -7,7 +7,7 @@ main_image: "images/bg.png"
 description: In this page, I talk about me.
 ---
 
-Tl;Dr - I'm a Data Scientist and a developer interested in people, computers, health, and music. Checkout my [projects](({{"blog.html" | absolute_url}})) and reach out to me [here](mailto:shanand@redhat.com).
+Tl;Dr - I'm a Data Scientist and a developer interested in people, computers, health, and music. Checkout my [projects]({{"blog.html" | absolute_url}}) and reach out to me [here](mailto:shanand@redhat.com).
 
 Hello my fellow netizens, thank you for visiting my website. Welcome, I hope you enjoy your stay and get to know me in the process.
 
@@ -23,6 +23,6 @@ Music, on the other hand, helps me express everything that words and code can no
 
 At the end of the day, I enjoy spending time and connecting with my family, friends and other animals in the natural world around me. Being an Engineer, it is hard to appreciate people and people skills, but in the recent few years I have realized that meaningful conversations with people in different stages of their life and career is like a shortcut or wormhole in the spacetime of your life. To understand how people philosophize and view their lives is quite enlightening.  Developing and honing people skills, creating and maintaining strong relationships is an active interest of mine.
 
-That was me and my priorities in a byte. Thank you for reaching the end, I will leave you with a link to my [projects](({{"blog.html" | absolute_url}})) and how to [contact me]((mailto:shanand@redhat.com)). I believe you would have some overlaps with my worldview. I always welcome conversations about ideas so if you are on the fence, hit the send button!  I would try my best to help you out and learn from you.
+That was me and my priorities in a byte. Thank you for reaching the end, I will leave you with a link to my [projects]({{"blog.html" | absolute_url}}) and how to [contact me]((mailto:shanand@redhat.com)). I believe you would have some overlaps with my worldview. I always welcome conversations about ideas so if you are on the fence, hit the send button!  I would try my best to help you out and learn from you.
 
 Cheers!
