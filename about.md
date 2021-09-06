@@ -4,7 +4,7 @@ layout: default
 tags: Shrey Anand homepage about data scientist
 categories: Me
 main_image: "images/bg.png"
-description: In this page, I talk about me.
+description: A brief introduction of how I percieve the world.
 ---
 
 Tl;Dr - I'm a Data Scientist and a developer interested in people, computers, health, and music. Checkout my [projects]({{"blog.html" | absolute_url}}) and reach out to me [here](mailto:shanand@redhat.com).
