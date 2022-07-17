@@ -3,7 +3,7 @@ title: About me
 layout: default
 tags: Shrey Anand homepage about data scientist
 categories: Me
-main_image: "images/bg.png"
+main_image: "images/pic01.jpg"
 description: A brief introduction of how I percieve the world.
 ---
 
@@ -13,7 +13,7 @@ Hello my fellow netizens, thank you for visiting my website. Welcome, I hope you
 
 I respond to the name Shrey Anand - the word Anand means happiness. The word Shrey comes from a Sanskrit and Hindi word श्रेया that could have different meanings if you google it. The one I like the most is  “long term fulfillment”. In other words, it refers to actions that are beneficial to you but may not give instant gratification. The global maximas in the function of happiness. Like a lot of things in life, my name was a product of chance and this description was my attempt to create meaning. Anyhow, it works for my passport and that may be all there is to it :)
 
-Fortunate enough to spawn in a safe and loving family, I believe all my actions aim to satisfy the higher levels of the Maslow’s hierarchy of needs. If I have to find one common theme in my initial few decades, it would be curiosity for life around me. I got introduced to Mathematics and Science at an early age and at an abstract level, it helped me develop an appreciation for understanding how everything works. The overarching theme of everything that I do is the application of this curiosity in different walks of life.
+Fortunate enough to spawn healthy and in a safe and loving family, I had the oppurtunity to dream and develop a positive model of the world. If I have to find one common theme in my initial few decades, it would be curiosity for life around me. I got introduced to Mathematics and Science at an early age and at an abstract level, it helped me develop an appreciation for understanding how everything works. The overarching theme of everything that I do is the application of this curiosity in different walks of life.
 
 Physical, mental and financial health are critical for me. Nutrition science is fascinating but it’s still not sophisticated enough to recommend personalized advice on how to efficiently run the machine I inhabit. Until that happens, I believe it is a good idea to experiment with and observe my body to find out what works with it. I have been monitoring some aspects of my functioning like sleep, heart rate, exercise, and meditation using a Fitbit tracker. On a day to day timeframe, it is a good indicator of how your body reacts to stress, exercise, and ingestions. With the ongoing data collection, I hope to find patterns spanning through a larger frame of time. To maintain my financial health, I try to live minimalistically with a few cheat splurges, usually on travel, family or to buy music equipment. To beat inflation and grow, I dabble in stock and crypto investments. In the data world that we live in, I like to track and study my major health metrics.
 
