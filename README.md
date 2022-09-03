@@ -1,4 +1,4 @@
-Hi, welcome to my website repository. The code here renders the website at [shreyanand.github.io](shreyanand.github.io).
+Hi, welcome to my website repository. The code here renders the website at [shreyanand.github.io](https://shreyanand.github.io/).
 
 # Website structure
 I'm using a simple HTML theme integrated with Jekyll.
