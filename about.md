@@ -1,28 +1,65 @@
 ---
-title: About me
+title: About Me
 layout: default
 tags: Shrey Anand homepage about data scientist
 categories: Me
 main_image:
-description: A brief introduction of how I perceive the world.
+description: A brief introduction to how I view the world through data, systems, and human connection.
 ---
 
-Tl;Dr - I'm a Data Scientist and a developer interested in people, computers, health, and music. Checkout my [projects]({{"blog.html" | absolute_url}}) and reach out to me [here](mailto:shanand@redhat.com).
+## TL;DR
 
-Hi netizens, Welcome to my digital home, I hope you enjoy your stay and learn something in the process.
+I’m Shrey Anand — a data scientist, software developer, and lifelong learner passionate about people, technology, health, and music. Check out my [projects]({{"blog.html" | absolute_url}}) or reach out [here](mailto:shreyanandapps@gmail.com).
 
-I respond to the name Shrey Anand - the word Anand means happiness. The word Shrey comes from a Sanskrit and Hindi word श्रेया that could have different meanings if you google it. The one I like the most is  “long term fulfillment”. In other words, it refers to actions that are beneficial to you but may not give instant gratification. The global maximas in the function of happiness. Like a lot of things in life, my name was a product of chance and this description was my attempt to create meaning. Anyhow, it works for my passport and that may be all there is to it :)
+---
 
-Fortunate enough to spawn healthy and in a safe and loving family, I had the opportunity to dream and develop a positive model of the world. If I have to find one common theme in my initial few decades, it would be curiosity for life around me. I got introduced to Mathematics and Science at an early age and at an abstract level, it helped me develop an appreciation for understanding how everything works. The overarching theme of everything that I do is the application of this curiosity in different walks of life.
+## Welcome
 
-Physical, mental and financial health are critical for me. Nutrition science is fascinating but it’s still not sophisticated enough to recommend personalized advice on how to efficiently run the machine I inhabit. Until that happens, I believe it is a good idea to experiment with and observe my body to find out what works with it. I have been monitoring some aspects of my functioning like sleep, heart rate, exercise, and meditation using a Fitbit tracker. On a day to day timeframe, it is a good indicator of how your body reacts to stress, exercise, and ingestions. With the ongoing data collection, I hope to find patterns spanning through a larger frame of time. To maintain my financial health, I try to live minimalistically with a few cheat splurges, usually on travel, family or to buy music equipment. To beat inflation and grow, I dabble in stock and crypto investments. In the data world that we live in, I like to track and study my major health metrics.
+Hi there, and welcome to my digital home.
 
-Expression gives me satisfaction. I enjoy writing both in technical settings and for expressing my thoughts and emotions. Language and its evolution over time and cultures is a fascinating area of study and I have tried to scratch the surface in some of my projects. I feel language is one of the many ways of expressing brain states. Code and music are my other favorite outlets. Coding helps me structure and implement my thoughts while being grounded in logic and math. For a living, I apply these skills to infer from software operations data at Red Hat, an open source linux and hybrid cloud platform. I am responsible for defining problems from data, writing notebooks with reproducible experiments, and presenting results to the stakeholders. My goal is to automate the mundane tasks that stop software engineers from following their creative potential. A part of this goal is to learn how to derive insights from data and then use it for automation.
+I'm Shrey Anand. *Anand* means “happiness,” and *Shrey* — derived from the Sanskrit *श्रेय* — is often interpreted as “long-term fulfillment.” Together, they sum up my personal and professional ethos: a focus on meaningful, lasting impact over short-term gratification.
 
-Music, on the other hand, helps me express everything that words and code can not. I play a flavor of Indian classical music through Bansuri (bamboo flute). The music style emphasizes melodies and rhythms and it results in an ocean of elegant complexities. There is a steep learning curve with the instrument and the style but it is a rewarding experience. I also picked up the guitar to understand western style of music and harmonization. Music, to me, is a great way to learn the skill of becoming good at a skill. Most importantly, it lets me express my most vulnerable and honest self which is therapeutic. I also use tools of data science to understand music from an analysis perspective.
+I've been fortunate to grow up in a supportive environment that encouraged curiosity. That curiosity became the engine behind my pursuit of understanding how systems — biological, computational, economic, and social — work.
 
-At the end of the day, I enjoy spending time and connecting with my family, friends and other animals in the natural world around me. Training as an Engineer, it was hard to appreciate people and people skills, but in the recent few years I have realized that meaningful conversations with people in different stages of their life and career is great learning opportunity. To understand how people philosophize and view their lives is quite enlightening.  Developing and honing people skills, creating and maintaining strong relationships runs as a background thread in my processing unit.
+---
 
-That was me and my priorities in a byte. Thank you for reaching the end, I will leave you with a link to my [projects]({{"blog.html" | absolute_url}}) and how to [contact me]((mailto:shanand@redhat.com)). I believe you would have some overlaps with my worldview. I always welcome conversations about ideas so if you are on the fence, hit the send button!  I would try my best to help you out and learn from you.
+## What I Do
 
-Cheers!
+Professionally, I apply data science to real-world challenges at [Red Hat](https://www.redhat.com), a leading open-source and hybrid cloud platform. My work involves:
+
+- Framing business problems into data science questions  
+- Conducting reproducible, scalable experiments  
+- Presenting insights that inform automation, optimization, and product strategy  
+
+My goal is to reduce cognitive and operational overhead for software engineers, empowering them to focus on creativity and innovation.
+
+Beyond the day job, I explore intersections of machine learning, systems design, and behavioral data — especially where human well-being and technology meet.
+
+---
+
+## What Drives Me
+
+I’m energized by systems that improve human life — whether it's through data-informed health insights, automation that boosts creative potential, or tools that deepen communication.
+
+Expression is key to how I engage with the world. Whether through code, writing, or music, I see creativity as both a personal outlet and a means of connection.
+
+I track and experiment with my own data — from sleep and training patterns to financial habits — to better understand what sustains clarity, resilience, and joy in modern life.
+
+---
+
+## Who I Am
+
+At the core, I’m a systems thinker with a human-first mindset. I’m interested in how people grow, connect, and find meaning. While my background is in engineering, I’ve come to value emotional intelligence and communication as critical tools for both leadership and collaboration.
+
+Some of the most valuable lessons I’ve learned have come from open, honest conversations with people across ages and industries. If you’d like to share your perspective or explore ideas, I’d love to hear from you.
+
+---
+
+## Let’s Connect
+
+Thank you for taking the time to get to know me.
+
+You can explore some of my [projects]({{"blog.html" | absolute_url}}), or just drop me a line [here](mailto:shreyanandapps@gmail.com). Whether you're interested in collaboration, mentorship, or just a thoughtful exchange of ideas — don't hesitate to reach out.
+
+**Cheers,**  
+Shrey
